@@ -3,6 +3,7 @@ console.log(localStorage.getItem('name'));
 // localStorage.removeItem('name');
 sessionStorage.setItem('name', 'nazi');
 console.log(sessionStorage.getItem('name'));
+
 sessionStorage.setItem('name', 'rabeek');
 console.log(sessionStorage.getItem('name'));
 // sessionStorage.removeItem('name');
